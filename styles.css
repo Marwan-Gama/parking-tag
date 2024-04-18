@@ -1,0 +1,40 @@
+/* Style for the heading */
+h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+/* Style for the label */
+label {
+  display: block; /* Makes the label appear on a new line */
+  margin-bottom: 10px; /* Adds some space below the label */
+}
+
+/* Style for the input */
+input[type="number"] {
+  width: 100px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+/* Style for the button */
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: #007bff; /* Blue color */
+  color: #fff; /* White text color */
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Style for the ordered list */
+ol {
+  margin-top: 20px; /* Adds some space above the list */
+}
+
+/* Style for the list items */
+li {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
